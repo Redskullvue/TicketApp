@@ -1,5 +1,7 @@
 # ticketapp
 
+To Visit The live version : https://myvueticketapp.netlify.app/
+
 ## Project setup
 ```
 npm install
